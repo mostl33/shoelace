@@ -1,18 +1,3 @@
-<div align="center">
-
-[![Shoelace is now Web Awesome — visit webawesome.com](.github/readme-banner.png)](https://webawesome.com)
-
-</div>
-
-> [!IMPORTANT]  
-> **Shoelace is sunset.** There is no active development on this codebase. The library remains available under the MIT license for existing use, but **please do not open issues, pull requests, or feature requests here**—direct those to **[Web Awesome](https://webawesome.com)**, the successor project, at [github.com/shoelace-style/webawesome](https://github.com/shoelace-style/webawesome).
-
-**What “Sunset” Means:** Shoelace has **no active development**. **Issues, pull requests, and feature requests** belong on **[Web Awesome](https://github.com/shoelace-style/webawesome)**, not this repository. The published package remains available under the MIT license for existing use. **Archiving** this repo on GitHub (optional but recommended) is how you mark it **read-only** on the platform—see _For Repository Maintainers_ below.
-
-Web Awesome, like Shoelace before it, offers an even larger library of free [components](https://webawesome.com/docs/components/), plus [themes](https://webawesome.com/docs/themes/), [utilities](https://webawesome.com/docs/utilities/), [patterns](https://webawesome.com/docs/patterns/), and more.
-
----
-
 # Shoelace
 
 A forward-thinking library of web components.
